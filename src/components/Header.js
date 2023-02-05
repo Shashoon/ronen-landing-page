@@ -9,7 +9,7 @@ const Header = () => {
     const [navMobile, setNavMobile] = useState(false);
 
     return (
-        <header className='mb-12 lg:mb-0 z-20 relative px-4 lg:px-0 py-12'>
+        <header className='mb-12 lg:mb-0 z-20 relative lg:px-0 py-12'>
             <div className="container mx-auto">
                 <div className="flex items-center justify-between">
                     <div className='flex items-center gap-x-[40px]'>

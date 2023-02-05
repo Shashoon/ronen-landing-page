@@ -6,7 +6,7 @@ const About = () => {
     return (
         <section className='my-[30px] xl:mt-[200px]' id='about'>
             <div className="container mx-auto">
-                <div className='bg-slate-700/[15%] rounded-[50px] min-h-[560px] px-12 py-12 flex flex-col text-center xl:flex-row xl:items-center xl:text-right  xl:gap-x-[60px] xl:pb-0'>
+                <div className='bg-slate-700/[15%] rounded-[50px] min-h-[560px] px-12 py-12 flex flex-col text-center xl:flex-row-reverse xl:items-center xl:text-right  xl:gap-x-[60px] xl:pb-0'>
                     <div className='flex-1 xl:pr-12'>
                         <h2 className='h2 mb-10' data-aos='fade-up' data-aos-delay='300'>
                             פשוט התקשרו או השאירו פרטים ואנחנו בדרך אליכם
