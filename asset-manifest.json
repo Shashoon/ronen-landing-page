@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ronen-landing-page/static/css/main.6022b8b5.css",
+    "main.js": "/ronen-landing-page/static/js/main.46fccbe5.js",
+    "static/media/about.png": "/ronen-landing-page/static/media/about.6c6c6a159caa6dbf40cd.png",
+    "static/media/pic2.png": "/ronen-landing-page/static/media/pic2.71b23cc71f694669df7c.png",
+    "static/media/home.png": "/ronen-landing-page/static/media/home.5a4c5d4177a237cbe3d6.png",
+    "static/media/pic3.png": "/ronen-landing-page/static/media/pic3.78570f0e355477d42a46.png",
+    "static/media/pic4.png": "/ronen-landing-page/static/media/pic4.f6e4495667d1091b211a.png",
+    "static/media/pic1.png": "/ronen-landing-page/static/media/pic1.47521ea1a312c1309d5d.png",
+    "static/media/logo.png": "/ronen-landing-page/static/media/logo.b1229caf831936f45b6a.png",
+    "index.html": "/ronen-landing-page/index.html",
+    "main.6022b8b5.css.map": "/ronen-landing-page/static/css/main.6022b8b5.css.map",
+    "main.46fccbe5.js.map": "/ronen-landing-page/static/js/main.46fccbe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6022b8b5.css",
+    "static/js/main.46fccbe5.js"
+  ]
+}
