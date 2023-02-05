@@ -29,11 +29,6 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
-
-            {
-                showModal ? <Modal /> : ''
-            }
-
         </section>
     )
 }
